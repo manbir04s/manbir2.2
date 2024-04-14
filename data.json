@@ -1,0 +1,15 @@
+{
+    "draggable": "Drag me!",
+    "droppable": "Dropped!",
+    "resizable": "Resize me!",
+    "selectable": ["Item 1", "Item 2", "Item 3", "Item 4"],
+    "accordion": {
+      "Section 1": "Content for Section 1",
+      "Section 2": "Content for Section 2",
+      "Section 3": "Content for Section 3"
+    },
+    "autocomplete": ["Apple", "Banana", "Cherry", "Date", "Grape", "Lemon", "Lime", "Orange"],
+    "datepicker": "",
+    "slider": 0
+  }
+  
